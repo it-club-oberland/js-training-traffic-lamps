@@ -5,7 +5,7 @@
 
 ### Notes:
 #### TODOS:
-- Please frist read all the text then start your implementation.
+- Please first read all the text then start your implementation.
 - We want you to build an intersection, where some of the daily scenarios happens. Implicitly, followings scenarios should be covered: 
 - Between color changes there should be 3 seconds wait time.
 When east west lamp turns in to green then other lamps suddenly should turn into red no 3 seconds here.
