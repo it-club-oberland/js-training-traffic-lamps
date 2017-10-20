@@ -18,6 +18,6 @@ When east west lamp turns in to green then other lamps suddenly should turn into
 - As conseptional thinking and aproach you can take a look this code just have and idea how you should structure your code:
 [xox js file](https://github.com/cemildo/XOX/blob/master/xox.js)
 
-- Happy Codnig IW TEAM!
+- Happy Coding IW Team!
  
     
