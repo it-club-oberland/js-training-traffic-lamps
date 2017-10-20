@@ -11,7 +11,7 @@
 When east west lamp turns in to green then other lamps suddenly should turn into red no 3 seconds here.
 - If south(G => Guney) lamp is green then at the same time north(K => Kuzey) lamp should also be in green state. And West(B => Bati) and East(D=> Dogu) lamps should be in red at this period of time.
 - Same logic should be applied if west and east are green then south and north lambs should be in red.
-- By color change you should have also yellow state in between read and green.
+- By color change you should have also yellow state in between red and green.
 - If the green color is on, on any of the road than this road should have some background color. For west east use "choose your own" as background color on green. For south north use "choose your own" as background color on green.
 ![Alt text](./images/on_green_south_north.jpg?raw=true "Title")
 - Optional : You dont have to implment cars! But if you like you can. And also your html desing do not have to be axact as in the images.  As optional bonus task: you can make also those black arrows blinking while the green lamp is on.
