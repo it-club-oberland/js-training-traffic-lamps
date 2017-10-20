@@ -1,7 +1,7 @@
 # JS-Training
 ## Javascript Excercises
 
-![Alt text](images?raw=true "Title")
+![Alt text](./images/intersection.jpg?raw=true "Title")
 
 ### Notes:
 - The tests are in the file "test/tests.js". You do not need to change any code in the test file!
